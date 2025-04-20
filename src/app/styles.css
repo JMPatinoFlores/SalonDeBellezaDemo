@@ -1,0 +1,13 @@
+.swiper-button-next,
+.swiper-button-prev {
+    color: #e10074; /* rosita */
+}
+
+.swiper-pagination-bullet {
+    background-color: #ff0072; /* Cambia este color al que prefieras */
+}
+
+/* Personaliza los puntos de paginación activos */
+.swiper-pagination-bullet-active {
+    background-color: #e10074; /* Cambia este color al que prefieras */
+}
