@@ -14,5 +14,5 @@ export const datosCliente = {
         tiktok: "https://tiktok.com/",
     },
     whatsapp:
-        "https://wa.me/525581226942?text=¡Hola!%20Me%20interesa%20saber%20más%20sobre%20sus%20servicios.",
+        "https://wa.me/525522579396?text=¡Hola!%20Me%20interesa%20saber%20más%20sobre%20sus%20servicios.",
 };
