@@ -10,7 +10,7 @@ export default function Footer() {
         <footer className="bg-pink-600 w-full min-h-[500px] flex items-center justify-center text-white">
             <div className="md:w-2/3 w-full px-4 text-pink-50 flex flex-col">
                 {/* Título */}
-                <div className="w-full text-7xl">
+                <div className="w-full text-5xl md:text-7xl">
                     <h2 className="w-full md:w-2/3">
                         Tu Belleza, Nuestra Pasión. Contáctanos.
                     </h2>

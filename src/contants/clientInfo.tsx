@@ -3,12 +3,12 @@ export const datosCliente = {
     empresa: "GlowUpStudio",
     logo: "/logo.png",
     direccion:
-        "Blvd. Aeropuerto 1000, Local 15, Col. Santa Elena, C.P. 50200, Toluca, Estado de México",
+        "Blvd. Ejemplo 1000, Local 15, Col. Santa Ejemplo, C.P. 00000, Ejemplo, Estado de Ejemplo",
     mapa: "https://maps.app.goo.gl/zGPQkW9mXXWvWawc6",
     telefono: "+52 123 456 7890",
     correo: "correo@empresa.com",
     redes: {
-        facebook: "https://facebook.com/",
+        facebook: "https://facebook.com/jywebstudio",
         twitter: "https://x.com/",
         instagram: "https://instagram.com/",
         tiktok: "https://tiktok.com/",
